@@ -1,0 +1,5 @@
+#File to ignore
+
+#IntelliJ specific
+/.idea/
+*.iml
